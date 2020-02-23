@@ -1,0 +1,4 @@
+2020-02-23 21:39:00 INFO  App:25 - Simple Interest for Principal : 30000.0, Rate of interest : 2.0, Time : 5.0 is : 3000.0
+2020-02-23 21:39:06 INFO  App:25 - Compound Interest for Principal : 40000.0, Rate of interest : 4.0, Time : 5.0 is : 8666.116096000005
+2020-02-23 21:39:06 INFO  App:27 - House Construction Estimate for Material Standard : High Standard, Area of House : 500.0, Fully Automation is : true is : 1250000.0
+2020-02-23 21:39:06 INFO  App:27 - House Construction Estimate for Material Standard : Standard, Area of House : 780.0, Fully Automation is : false is : 936000.0
